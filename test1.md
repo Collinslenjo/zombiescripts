@@ -1,0 +1,1 @@
+# Find the smallest number with the same digits as the provided number
